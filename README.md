@@ -23,7 +23,7 @@ This repository contains all the information shared during my #100DaysofBugBount
 ---
 
 
-### Day 1: Sep 17, 2021 - Saturday
+### Day 1: Sep 18, 2021 - Saturday
 
 **Motivation** : Push harder than yesterday If you want a different tomorrow
 
