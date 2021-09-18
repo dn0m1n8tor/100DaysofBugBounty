@@ -25,7 +25,27 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ### Day 1: Sep 17, 2021 - Saturday
 
-Motivation : Push harder than yesterday If you want a different tomorrow
+**Motivation** : Push harder than yesterday If you want a different tomorrow
 
-Hackerone Reports : 
+- [x] Learn JavaScript [Arrays] : https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/05_Day_Arrays/05_day_arrays.md
 
+- [x] Hunted on Barker @BugBountyHunt3r
+
+- [x] Hunted on Target
+
+- [x] Read BugBounty Bootcamp book : page 131-138
+
+- [x] Read Write-ups : 
+  -  https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/
+  -  https://medium.com/@maheshlsingh8412/session-puzzling-attack-bypassing-authentication-29f4ff2fd4f5
+  -  https://hacklido.com/blog/449-json-csrf-csrf-that-none-talks-about
+        
+- [x] Hackerone reports : 
+	-  https://hackerone.com/reports/1329434
+	-  https://hackerone.com/reports/978823
+	-  https://hackerone.com/reports/1114347
+	-  https://hackerone.com/reports/17474
+	-  https://hackerone.com/reports/1182864
+	-  https://hackerone.com/reports/1342422
+
+---
