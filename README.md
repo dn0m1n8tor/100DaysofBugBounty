@@ -40,7 +40,7 @@ This repository contains all the information shared during my #100DaysofBugBount
   -  https://medium.com/@maheshlsingh8412/session-puzzling-attack-bypassing-authentication-29f4ff2fd4f5
   -  https://hacklido.com/blog/449-json-csrf-csrf-that-none-talks-about
         
-- [x] Hackerone reports : 
+- [x] Read Hackerone reports : 
 	-  https://hackerone.com/reports/1329434
 	-  https://hackerone.com/reports/978823
 	-  https://hackerone.com/reports/1114347
