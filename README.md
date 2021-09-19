@@ -22,7 +22,6 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ---
 
-
 ### Day 1: Sep 18, 2021 - Saturday
 
 **Motivation** : Push harder than yesterday If you want a different tomorrow
@@ -49,3 +48,19 @@ This repository contains all the information shared during my #100DaysofBugBount
 	-  https://hackerone.com/reports/1342422
 
 ---
+
+### Day 2: Sep 19, 2021 - Sunday
+
+**Motivation** : अपने हौसलों से अपने हालात बदलो, अपने हालात से अपने हौसलों नहीं ।
+
+- [x] Learn JavaScript [Loops] : https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/06_Day_Loops/06_day_loops.md
+
+- [x] Hunted on Target
+
+- [x] Read BugBounty Bootcamp book : page 138-141
+
+- [x] Read Write-up : 
+  - https://manasharsh.medium.com/chaining-bugs-for-better-bounties-f14d6b2129de
+
+---
+
