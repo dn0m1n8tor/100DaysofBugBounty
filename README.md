@@ -14,7 +14,7 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ## Goals 
 
-<img src="https://user-images.githubusercontent.com/65735854/133798704-06a45ac2-8b8c-49d1-bcf2-7f25d2a39fa3.jpg" width="500" height="750"/>
+<img src="https://user-images.githubusercontent.com/65735854/133798704-06a45ac2-8b8c-49d1-bcf2-7f25d2a39fa3.jpg" style="width: 59% !important;">
 
 ## Progress
 
