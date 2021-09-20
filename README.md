@@ -14,11 +14,11 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ## Goals 
 
-<img src="https://user-images.githubusercontent.com/65735854/133798704-06a45ac2-8b8c-49d1-bcf2-7f25d2a39fa3.jpg" style="width: 59% !important;">
+<img src="https://user-images.githubusercontent.com/65735854/133798704-06a45ac2-8b8c-49d1-bcf2-7f25d2a39fa3.jpg" style="width: 50% !important;">
 
 ## Progress
 
-<img src="https://progress-bar.dev/2/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
+<img src="https://progress-bar.dev/3/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -64,3 +64,24 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+### Day 2: Sep 19, 2021 - Sunday
+
+**Motivation** : Your life is only Reflection of your actions
+
+- [x] Learn AWS: 
+- S3 Bucket
+	- Versioning
+	- Static website hosting
+	- classes/tier
+
+- [x] Learn JavaScript [Functions] : https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/07_Day_Functions/07_day_functions.md
+
+- [x] Hunted on Target
+
+- [x] Read Write-ups : 
+	- https://orwaatyat.medium.com/how-i-found-multiple-bugs-on-facebook-in-1-month-and-a-part-for-my-methodology-tools-58a677a9040c
+	- https://iamsaugat.medium.com/a-facebook-bug-that-exposes-email-phone-number-to-your-friends-a980d24e5ea8
+	- https://blog.usamav.dev/how-i-got-400-usd-for-my-first-ssrf-bug?utm_campaign=Weekly%20newsletter%20of%20Anugrah%20Sr&utm_medium=email&utm_source=Revue%20newsletter
+	- https://docs.google.com/presentation/d/1ek6DzXKBQd6xUiVNGRT33pMACs8M13CSoYCkgepDKZk/edit#slide=id.gb2a807bdfd_0_0
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
