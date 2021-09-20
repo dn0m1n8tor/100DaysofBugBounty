@@ -20,7 +20,7 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 <img src="https://progress-bar.dev/2/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
 
----
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ### Day 1: Sep 18, 2021 - Saturday
 
@@ -47,7 +47,7 @@ This repository contains all the information shared during my #100DaysofBugBount
 	-  https://hackerone.com/reports/1182864
 	-  https://hackerone.com/reports/1342422
 
----
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ### Day 2: Sep 19, 2021 - Sunday
 
@@ -62,5 +62,5 @@ This repository contains all the information shared during my #100DaysofBugBount
 - [x] Read Write-up : 
   - https://manasharsh.medium.com/chaining-bugs-for-better-bounties-f14d6b2129de
 
----
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
