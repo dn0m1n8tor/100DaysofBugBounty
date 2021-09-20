@@ -64,7 +64,7 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-### Day 2: Sep 19, 2021 - Sunday
+### Day 3: Sep 19, 2021 - Monday
 
 **Motivation** : Your life is only Reflection of your actions
 
