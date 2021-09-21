@@ -88,7 +88,7 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ### Day 4: Sep 21, 2021 - Tuesday
 
-**Motivation** : बेशक किस्मत बुरी हो सकती है ऐ -Bug Bounty 
+**Motivation** : बेशक किस्मत बुरी हो सकती है ऐ -Bug Bounty ...
 		 मगर मेहनत में कमी ना तो है, ना कभी होगी!
 
 - [x] Learn AWS: 
