@@ -64,7 +64,7 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-### Day 3: Sep 19, 2021 - Monday
+### Day 3: Sep 20, 2021 - Monday
 
 **Motivation** : Your life is only Reflection of your actions
 
@@ -86,7 +86,7 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-### Day 3: Sep 19, 2021 - Monday
+### Day 4: Sep 21, 2021 - Tuesday
 
 **Motivation** : बेशक किस्मत बुरी हो सकती है ऐ -Bug Bounty 
 		 मगर मेहनत में कमी ना तो है, ना कभी होगी!
