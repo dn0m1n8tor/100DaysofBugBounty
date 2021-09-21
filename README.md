@@ -85,3 +85,20 @@ This repository contains all the information shared during my #100DaysofBugBount
 	- https://docs.google.com/presentation/d/1ek6DzXKBQd6xUiVNGRT33pMACs8M13CSoYCkgepDKZk/edit#slide=id.gb2a807bdfd_0_0
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+### Day 3: Sep 19, 2021 - Monday
+
+**Motivation** : बेशक किस्मत बुरी हो सकती है ऐ -Bug Bounty 
+		 मगर मेहनत में कमी ना तो है, ना कभी होगी!
+
+- [x] Learn AWS: 
+- S3 Bucket
+	- Cross region replication
+	- encryption
+	- tags
+	- metadata
+
+- [x] Hunted on Target
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
