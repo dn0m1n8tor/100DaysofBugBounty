@@ -102,3 +102,15 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+### Day 5: Sep 22, 2021 - Wednesday
+
+- [x] Learn AWS: 
+- S3 Bucket
+	- ACL
+	- Bucket Policies
+	- Life cycle management
+
+- [x] Read Write-up : 
+	- https://www.blackhillsinfosec.com/how-to-hack-websockets-and-socket-io/
+
+
