@@ -18,7 +18,7 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ## Progress
 
-<img src="https://progress-bar.dev/3/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
+<img src="https://progress-bar.dev/5/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -112,6 +112,16 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 - [x] Read Write-up : 
 	- https://www.blackhillsinfosec.com/how-to-hack-websockets-and-socket-io/
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+### Day 5: Sep 22, 2021 - Wednesday
+
+- [x] Learn AWS: 
+	- Importance of IAM
+	- Difference between root user and IAM user
+	- Creating User, attaching policies to group
+	- Add users to group
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
