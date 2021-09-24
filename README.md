@@ -115,7 +115,7 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-### Day 5: Sep 22, 2021 - Wednesday
+### Day 5: Sep 23, 2021 - Thursday
 
 - [x] Learn AWS: 
 	- Importance of IAM
