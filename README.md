@@ -152,7 +152,7 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 - [x] Read Reports :
 	- FirstBlood Reports on [BugBountyHunt3r](https://twitter.com/BugBountyHunt3r)
-	- 
+
 - [x] Read BugBounty Bootcamp book : page 143-147
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
