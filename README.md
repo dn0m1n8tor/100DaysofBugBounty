@@ -18,7 +18,7 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ## Progress
 
-<img src="https://progress-bar.dev/5/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
+<img src="https://progress-bar.dev/9/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -115,7 +115,7 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-### Day 5: Sep 23, 2021 - Thursday
+### Day 6: Sep 23, 2021 - Thursday
 
 - [x] Learn AWS: 
 	- Importance of IAM
@@ -125,3 +125,32 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+### Day 7: Sep 24, 2021 - Friday
+
+- [x] Learn AWS: 
+	- AWS CLI 
+	- Understanding IAM Roles
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+### Day 8: Sep 25, 2021 - Saturday
+
+- [x] Read Writups:
+	- https://redhuntlabs.com/blog/10-most-common-security-issues-found-in-login-functionalities.html
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+### Day 9: Sep 26, 2021 - Sunday
+
+**Motivation** : मंजिलो से कह दो पहुच रहे हैं हम, थोड़ा सब्र और कर ले चल पडे हैं हम ।
+
+- [x] Read Write-up : 
+	- https://blogs.opera.com/security/2021/09/8000-bug-bounty-highlight-xss-to-rce-in-the-opera-browser/
+	- https://portswigger.net/daily-swig/meet-trufflehog-a-browser-extension-for-finding-secret-keys-in-javascript-code
+
+- [x] Read Reports :
+	- FirstBlood Reports on [BugBountyHunt3r](https://twitter.com/BugBountyHunt3r)
+	- 
+- [x] Read BugBounty Bootcamp book : page 143-147
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
