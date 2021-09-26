@@ -135,6 +135,8 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ### Day 8: Sep 25, 2021 - Saturday
 
+**Motivation** : Don't be afraid to fail
+
 - [x] Read Writups:
 	- https://redhuntlabs.com/blog/10-most-common-security-issues-found-in-login-functionalities.html
 
