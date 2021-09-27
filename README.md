@@ -156,3 +156,13 @@ This repository contains all the information shared during my #100DaysofBugBount
 - [x] Read BugBounty Bootcamp book : page 143-147
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+### Day 10: Sep 27, 2021 - Monday
+
+- [x] Getting Started: Create and Manage Cloud Resources by Google cloud
+
+- [x] Learn about Git & Github : https://www.youtube.com/watch?v=uaeKhfhYE0U 
+
+- [x] Started learning DBMS - lect 1-5 : https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
