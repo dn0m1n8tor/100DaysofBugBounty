@@ -18,7 +18,7 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ## Progress
 
-<img src="https://progress-bar.dev/9/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
+<img src="https://progress-bar.dev/11/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -166,3 +166,16 @@ This repository contains all the information shared during my #100DaysofBugBount
 - [x] Started learning DBMS - lect 1-5 : https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+### Day 11: Sep 28, 2021 - Tuesday
+
+- [x] Perform Foundational Infrastructure Tasks in Google Cloud
+
+- [x] Practice about Git & Github : https://www.youtube.com/watch?v=uaeKhfhYE0U 
+
+- [x] Worked on my project
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
