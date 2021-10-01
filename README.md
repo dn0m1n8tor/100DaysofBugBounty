@@ -18,7 +18,7 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ## Progress
 
-<img src="https://progress-bar.dev/11/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
+<img src="https://progress-bar.dev/13/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
