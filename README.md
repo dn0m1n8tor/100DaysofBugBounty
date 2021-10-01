@@ -167,15 +167,40 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
 ### Day 11: Sep 28, 2021 - Tuesday
+
+- [x] Learn AWS:
+      - What is VPC
+      - Understanding Subnet
 
 - [x] Perform Foundational Infrastructure Tasks in Google Cloud
 
 - [x] Practice about Git & Github : https://www.youtube.com/watch?v=uaeKhfhYE0U 
 
-- [x] Worked on my project
+- [x] Worked on project morya
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+### Day 12: Sep 29, 2021 - Wednesday
+
+- [x] Learn AWS:
+      - Creating VPC and Subnet
+      - Behavior of public and private subnet
+
+- [x] Setup and Configure a Cloud Environment in Google Cloud
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+### Day 13: Sep 30, 2021 - Thursday
+
+- [x] Learn AWS
+      - Working with Internet gateway
+      - Working with routing tables
+      - Making Subnet Public
+
+- [x] Worked on project morya 
+
+- [x] Wrote an article on topic: [Notification system for your Bug Bounty Automation](https://anubhav-singh.medium.com/notification-system-for-your-bug-bounty-automation-7b13af1b7372)
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
