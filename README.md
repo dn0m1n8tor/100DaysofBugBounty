@@ -170,8 +170,8 @@ This repository contains all the information shared during my #100DaysofBugBount
 ### Day 11: Sep 28, 2021 - Tuesday
 
 - [x] Learn AWS:
-      - What is VPC
-      - Understanding Subnet
+    - What is VPC
+    - Understanding Subnet
 
 - [x] Perform Foundational Infrastructure Tasks in Google Cloud
 
@@ -184,8 +184,8 @@ This repository contains all the information shared during my #100DaysofBugBount
 ### Day 12: Sep 29, 2021 - Wednesday
 
 - [x] Learn AWS:
-      - Creating VPC and Subnet
-      - Behavior of public and private subnet
+    - Creating VPC and Subnet
+    - Behavior of public and private subnet
 
 - [x] Setup and Configure a Cloud Environment in Google Cloud
 
@@ -194,9 +194,9 @@ This repository contains all the information shared during my #100DaysofBugBount
 ### Day 13: Sep 30, 2021 - Thursday
 
 - [x] Learn AWS
-      - Working with Internet gateway
-      - Working with routing tables
-      - Making Subnet Public
+    - Working with Internet gateway
+    - Working with routing tables
+    - Making Subnet Public
 
 - [x] Worked on project morya 
 
