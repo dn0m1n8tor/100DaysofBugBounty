@@ -204,3 +204,22 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+
+### Day 14: Oct 1, 2021 - Friday
+
+- [x] Worked on project morya 
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+### Day 15: Oct 2, 2021 - Saturday
+
+- [x] Worked on project morya 
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+### Day 16: Oct 3, 2021 - Sunday
+
+- [x] Worked on project morya 
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
