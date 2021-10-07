@@ -18,7 +18,7 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ## Progress
 
-<img src="https://progress-bar.dev/16/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
+<img src="https://progress-bar.dev/19/?scale=100&title=100DaysofBugBounty&width=120&color=34eb40&suffix=%">
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -223,3 +223,27 @@ This repository contains all the information shared during my #100DaysofBugBount
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+### Day 17: Oct 4, 2021 - Monday
+
+- [x] [Project morya made public](https://github.com/anubhavsinghhacker/project-morya)
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+### Day 18: Oct 5, 2021 - Tuesday
+
+- [x] AWS
+  - Route53 theoretical concept
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+### Day 19: Oct 6, 2021 - Wednesday
+
+- [X] AWS
+  - Route53 practical
+
+- [X] DBMS
+  - Lecture [1.1 - 2.3](https://www.youtube.com/playlist?list=PLDsWlXwFNai7qqOiGLxgw6mc7yIE8_y9T) 
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
